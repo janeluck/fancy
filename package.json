@@ -1,0 +1,22 @@
+{
+  "name": "fancy",
+  "version": "1.0.0",
+  "description": "a test-driven approach to improving frontend skills",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/janeluck/fancy.git"
+  },
+  "author": "janeluck",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/janeluck/fancy/issues"
+  },
+  "homepage": "https://github.com/janeluck/fancy#readme",
+  "dependencies": {
+    "should": "^7.1.1"
+  }
+}
